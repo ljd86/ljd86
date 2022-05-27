@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ljd86
-- 🌱 I’m currently learning HTML, CSS3, PHP, SQL
+- 👋 Hi, I’m Lucas Darwich
+- 🌱 I’m currently learning HTML, CSS3, PHP, SQL, JS and Node.JS
 - 📫 lucasdarwich@gmail.com 
 
 <!---
